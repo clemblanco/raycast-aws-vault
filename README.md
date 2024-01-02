@@ -1,6 +1,6 @@
 # Raycast AWS Vault
 
-This is an extension for [Raycast](https://www.raycast.com/) which can open the AWS management console for multiple accounts via [aws-vault](https://github.com/99designs/aws-vault) and SSO with the Google Chrome browser.
+This is an extension for [Raycast](https://www.raycast.com/) which can open the AWS management console for multiple accounts via [aws-vault](https://github.com/99designs/aws-vault) and Single Sign On with the Google Chrome browser.
 
 # Installation
 
