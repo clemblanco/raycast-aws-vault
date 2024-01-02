@@ -2,20 +2,21 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "aws-vault",
   "title": "AWS Vault",
-  "description": "AWS SSO Login for multiple profiles",
+  "description": "AWS Vault login for multiple profiles with Google Chrome",
   "icon": "command-icon.png",
   "author": "clemblanco",
   "categories": [
+    "Amazon Web Services",
     "Developer Tools",
-    "Security"
+    "Productivity"
   ],
   "license": "MIT",
   "commands": [
     {
       "name": "index",
       "title": "AWS Vault",
-      "subtitle": "AWS SSO Login for multiple profiles",
-      "description": "AWS SSO Login for multiple profiles",
+      "subtitle": "AWS Vault login for multiple profiles with Google Chrome",
+      "description": "This is an extension which can open the AWS management console for multiple accounts via aws-vault and Single Sign On with the Google Chrome browser.",
       "mode": "view"
     }
   ],
